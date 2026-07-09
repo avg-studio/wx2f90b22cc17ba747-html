@@ -1,0 +1,55 @@
+
+hcpt.png
+size: 371,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: true
+  xy: 165, 7
+  size: 82, 101
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+100_1
+  rotate: true
+  xy: 268, 7
+  size: 82, 101
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 2, 11
+  size: 74, 83
+  orig: 74, 87
+  offset: 0, 2
+  index: -1
+20_1
+  rotate: false
+  xy: 87, 2
+  size: 74, 83
+  orig: 74, 87
+  offset: 0, 2
+  index: -1
+60
+  rotate: true
+  xy: 165, 91
+  size: 82, 101
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+60_1
+  rotate: true
+  xy: 268, 91
+  size: 82, 101
+  orig: 82, 125
+  offset: 0, 0
+  index: -1
+jiant
+  rotate: false
+  xy: 2, 87
+  size: 161, 86
+  orig: 174, 88
+  offset: 6, 2
+  index: -1

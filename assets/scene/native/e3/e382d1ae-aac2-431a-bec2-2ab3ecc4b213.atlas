@@ -1,0 +1,41 @@
+
+piaofen.png
+size: 440,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bling
+  rotate: false
+  xy: 106, 6
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+ringglowwhite2_1_00
+  rotate: false
+  xy: 200, 10
+  size: 89, 88
+  orig: 102, 102
+  offset: 7, 7
+  index: -1
+sn_xiguan_1
+  rotate: true
+  xy: 2, 2
+  size: 96, 102
+  orig: 102, 102
+  offset: 3, 0
+  index: -1
+spot
+  rotate: false
+  xy: 395, 54
+  size: 43, 44
+  orig: 46, 46
+  offset: 3, 0
+  index: -1
+starflashblue_1_00
+  rotate: false
+  xy: 291, 11
+  size: 102, 87
+  orig: 102, 102
+  offset: 0, 7
+  index: -1
